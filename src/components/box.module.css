@@ -1,5 +1,6 @@
 .boxStyle{
-    display: flex;
+    color: white;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     margin-left: 10px;
@@ -8,7 +9,7 @@
 }
 
 .outerDiv{
-    display: flex;
+    display: inline-flex;
 }
 @keyframes slide-in {
     from{
